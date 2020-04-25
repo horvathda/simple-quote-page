@@ -33,12 +33,12 @@ div{
   font-family: 'Crimson Text',serif;
   font-size:1.34vw;
   font-style: italic;
-  padding-bottom: 7vw;
 }
 .flag{
   width:4vw;
   height:2.5vw;
   padding:1vw;
+  padding-top:8vw;
 }
 li{
   display: inline;

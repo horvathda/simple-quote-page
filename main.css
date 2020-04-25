@@ -50,9 +50,9 @@ ul {
 
 @media screen and (max-width: 600px) {
 .main-text{
-    font-size: 10vw;
+    font-size: 7vw;
   }
   .from{
-   font-size:5vw; 
+   font-size:4vw; 
   }
 }

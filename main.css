@@ -54,9 +54,7 @@ ul {
   }
   .from{
    font-size:2vw; 
-  }
-  div{
-    padding:0;
+    padding-top:0px;
   }
   
 }

@@ -8,8 +8,29 @@
 	vertical-align: baseline;
   
 }
-body{
+body,html{
   background:url(assets/freedom.jpg) no-repeat center;
+  background-size:cover;
   width:100%;
-  height: 100vh;
+  height:100vh;
+  line-height: 1.5;
+  
+}
+div{
+  width:90%;
+  text-align:center;
+    margin:0 auto;
+  padding-top:5rem;
+}
+
+.main-text{
+  font-family:'Julius Sans One', sans-serif;
+  font-size:2.5rem;
+  padding-top:1.5rem;
+}
+.from{
+  padding-top:2.8rem;
+  font-family: 'Crimson Text', sans-serif;
+  font-size:1.25rem;
+  font-style: italic;
 }

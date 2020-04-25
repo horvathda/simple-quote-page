@@ -26,13 +26,13 @@ div{
 .main-text{
   font-family:'Julius Sans One', sans-serif;
   padding-top:1.5rem;
-  font-size:3em;
+  font-size:2.674vw;
   width:100%;
 }
 .from{
   padding-top:2.8rem;
   font-family: 'Crimson Text',serif;
-  font-size:1.5em;
+  font-size:1.34vw;
   font-style: italic;
 }
 .flag{
@@ -48,3 +48,11 @@ ul {
   list-style-type: none;
 }
 
+@media screen and (max-width: 600px) {
+.main-text{
+    font-size: 10vw;
+  }
+  .from{
+   font-size:5vw; 
+  }
+}
